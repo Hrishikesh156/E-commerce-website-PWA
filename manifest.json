@@ -1,0 +1,27 @@
+{
+    "name": "Candles and Gift Website",
+    "short_name": "Candles and Gifts",
+    "start_url": "/",
+    "background_color": "#212529",
+    "description": "",
+    "display": "fullscreen",
+    "theme_color": "#212529",
+    "icons": [
+ {
+"src": "icon497.png",
+"sizes": "497x497"
+},
+{
+"src": "icon192.png",
+"sizes": "192x192"
+},
+{
+"src": "icon96.png",
+"sizes": "96x96"
+},
+{
+"src": "icon48.png",
+"sizes": "48x48"
+}
+]
+}
